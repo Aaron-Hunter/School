@@ -37,7 +37,7 @@ namespace UnitTests
         public void TestGoodGetStudentById()
         {
             var controller = new StudentController(service);
-            var getResult = controller.GetStudentById(1);
+            var getResult = controller.GetStudentByID(1);
 
             var okObjectResult = getResult as OkObjectResult;
             okObjectResult.Should().NotBeNull();
@@ -52,7 +52,7 @@ namespace UnitTests
         public void TestBadGetStudentById()
         {
             var controller = new StudentController(service);
-            var getResult = controller.GetStudentById(99);
+            var getResult = controller.GetStudentByID(99);
 
             getResult.Should().BeOfType<NotFoundResult>();
         }
