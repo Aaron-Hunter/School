@@ -1,0 +1,14 @@
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\bin\Debug\net6.0\DomainLayer.runtimeconfig.json
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\obj\Debug\net6.0\DomainLayer.genruntimeconfig.cache
+C:\Users\Aaron\Desktop\projects\School\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
