@@ -17,8 +17,8 @@ namespace School.Controllers
         {
             _customService = customService;
         }
-        [HttpGet(nameof(GetStudentById))]
-        public IActionResult GetStudentById(int Id)
+        [HttpGet(nameof(GetStudentByID))]
+        public IActionResult GetStudentByID(int Id)
         {
             var obj = _customService.Get(Id);
             if (obj == null)
